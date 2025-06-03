@@ -30,7 +30,7 @@ This project demonstrates foundational and advanced MongoDB skills, including da
 
 Below is a snapshot of the `books` collection in MongoDB Compass showing sample data:
 
-![MongoDB Compass Screenshot](mongodb_compass_view.pn)
+![MongoDB Compass Screenshot](mongodb_compass_view.png)
 
 ## 🛠️ Prerequisites
 
